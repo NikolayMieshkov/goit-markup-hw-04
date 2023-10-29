@@ -519,8 +519,8 @@ margin-bottom: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 24px;
-    height: 24px;
+    width: 24;
+    height: 24;
   }
   .btn-social-footer {
     width: 40px;
