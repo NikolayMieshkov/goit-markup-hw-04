@@ -254,8 +254,8 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
   .icon-about {
     fill: var(--hero-background-color);
-    width: 64px;
-    height: 64px;
+    /* width: 64px;
+    height: 64px; */
   }
 .about-title {
 margin-bottom: 8px;
